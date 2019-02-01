@@ -2,6 +2,8 @@
 
 > 这是一个Android APP，作用是能把文件的快捷方式放到桌面上，当点击这个快捷方式的时候自动调用第三方app打开。
 
+要下载此app，[点击这里](https://github.com/HeroIsUseless/FileShortcuts/tree/master/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%9C%A8%E8%BF%99%E9%87%8C)
+
 ## 用法
 
 > 因为此app没有界面，因此它的用法需要说明一下。
